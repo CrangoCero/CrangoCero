@@ -40,11 +40,10 @@ Actualmente busco oportunidades **part-time o freelance** en desarrollo web y co
 
 ## 🛠️ Habilidades Técnicas
 
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express, Laravel
+- **Frontend:** HTML, CSS, JavaScript, jQuery, React, Next.js
+- **Backend:** Node.js (NestJS yExpress), PHP (Wordpress y Laravel)
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 - **Cloud:** AWS, Google Cloud (nivel inicial)  
-- **Mobile:** React Native, UX/UI Mobile  
 - **Herramientas:** Git, GitHub, Docker (nivel básico)
 
 ---
@@ -61,7 +60,7 @@ Actualmente busco oportunidades **part-time o freelance** en desarrollo web y co
  **Freelance Fullstack Developer**  
 
 - Desarrollo de sitios web personalizados para PYMEs y emprendedores.
-- Arquitectura backend con Node.js y Express o Laravel.
+- Arquitectura backend con Node.js(NestJS y Express) o PHP(Laravel).
 - Implementación de DB PostgreSQL/MySQL/MongoDB optimizadas.
 - Customización avanzada de WP (Hooks & API).
 
