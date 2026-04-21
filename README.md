@@ -40,7 +40,7 @@ Actualmente busco oportunidades **part-time o freelance** en desarrollo web y co
 
 ## 🛠️ Habilidades Técnicas
 
-- **Frontend:** HTML, CSS, JavaScript, jQuery, React, Next.js
+- **Frontend:** HTML, CSS (Bootstrap), JavaScript (jQuery, React y Next.js)
 - **Backend:** Node.js (NestJS yExpress), PHP (Wordpress y Laravel)
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB  
 - **Cloud:** AWS, Google Cloud (nivel inicial)  
