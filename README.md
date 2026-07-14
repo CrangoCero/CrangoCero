@@ -69,6 +69,7 @@ Actualmente busco oportunidades **part-time o freelance** en desarrollo web y co
 ## 📈 Portafolio Destacado
 
 - 🔗 [Proyecto BalanceUno](https://github.com/CrangoCero/balanceuno)
+- ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/CrangoCero/BalanceUno?style=for-the-badge&logo=github&logoColor=white)
 
     ![HTML](https://img.shields.io/badge/Markup-HTML-red?logo=html5)
     ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-553c7b?logo=bootstrap)
@@ -76,6 +77,20 @@ Actualmente busco oportunidades **part-time o freelance** en desarrollo web y co
     ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
     ![PHP](https://img.shields.io/badge/Code-PHP-474A8A?logo=php)
     ![jQuery](https://img.shields.io/badge/Framework-jQuery-0868ac?logo=jquery&logoColor=0868ac)
+
+- 🔗 [Habit Tracker](https://github.com/CrangoCero/js-habits/)
+- ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/CrangoCero/js-habits?style=for-the-badge&logo=github&logoColor=white)
+
+    ![HTML](https://img.shields.io/badge/Markup-HTML-red?logo=html5)
+    ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css&logoColor=blue)
+    ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+
+- 🔗 [Notas](https://github.com/CrangoCero/notes-md/)
+- ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/CrangoCero/notes-md?style=for-the-badge&logo=github&logoColor=white)
+  
+    ![HTML](https://img.shields.io/badge/Markup-HTML-red?logo=html5)
+    ![CSS](https://img.shields.io/badge/Style-CSS-blue?logo=css&logoColor=blue)
+    ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 
 ---
 
