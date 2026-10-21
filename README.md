@@ -10,7 +10,6 @@
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Framework-Express-000000?logo=express)
-![NestJS](https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs)
 ![MySQL](https://img.shields.io/badge/DB-MySQL-4479A1?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-336791?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/DB-MongoDB-47A248?logo=mongodb)
