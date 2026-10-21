@@ -32,9 +32,7 @@
 
 ## 🚀 Sobre mí
 
-Soy tecnólogo en **Análisis y Desarrollo de Software (SENA)**, con formación continua en **Fullstack JavaScript** (Platzi).  
-Me apasiona crear soluciones digitales modernas y efectivas para negocios locales y proyectos globales.  
-Actualmente busco oportunidades **part-time o freelance** en desarrollo web y consultoría digital.
+Desarrollador **Full Stack** con experiencia en PHP, Laravel, WordPress y JavaScript, enfocado en la integración de Inteligencia Artificial para la automatización de procesos y el desarrollo de soluciones innovadoras. Capacidad para crear aplicaciones web modernas, asistentes inteligentes, agentes de IA y sistemas empresariales escalables. Apasionado por el aprendizaje continuo y la aplicación práctica de tecnologías emergentes para generar valor de negocio..
 
 ---
 
